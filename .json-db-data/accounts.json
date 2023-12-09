@@ -1,1 +1,1 @@
-[{"personId":"1","accountType":"1","accountId":1,"activeFlag":true,"createDate":"2023-12-08T10:11:49.094Z"}]
+[{"accountId":1,"personId":1,"accountType":"1","balance":100,"dailyWithdrawalLimit":1000,"activeFlag":false,"createDate":"2023-12-08T12:49:40.592Z"},{"accountId":2,"personId":1,"accountType":1,"balance":550,"dailyWithdrawalLimit":1000,"activeFlag":true,"createDate":"2023-12-08T14:30:59.665Z"}]
